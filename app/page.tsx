@@ -1,5 +1,4 @@
-import SequenceScroll from '@/components/SequenceScroll';
-
+import SequenceScroll from '../components/SequenceScroll';
 export default function Home() {
   return (
     <main>
